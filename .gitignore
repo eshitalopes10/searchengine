@@ -1,0 +1,22 @@
+# Java
+target/
+*.class
+*.jar
+
+# Maven
+.mvn/
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Env
+.env
+*.env.local
